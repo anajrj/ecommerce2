@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactmernproject/static/css/main.d8e7bbc8.chunk.css",
+    "main.js": "/reactmernproject/static/js/main.f8dd6433.chunk.js",
+    "main.js.map": "/reactmernproject/static/js/main.f8dd6433.chunk.js.map",
+    "runtime-main.js": "/reactmernproject/static/js/runtime-main.ec7f93ab.js",
+    "runtime-main.js.map": "/reactmernproject/static/js/runtime-main.ec7f93ab.js.map",
+    "static/js/2.96eb6862.chunk.js": "/reactmernproject/static/js/2.96eb6862.chunk.js",
+    "static/js/2.96eb6862.chunk.js.map": "/reactmernproject/static/js/2.96eb6862.chunk.js.map",
+    "index.html": "/reactmernproject/index.html",
+    "precache-manifest.4f4b2dd96ba80bd194ea3e4fe8fe8f7f.js": "/reactmernproject/precache-manifest.4f4b2dd96ba80bd194ea3e4fe8fe8f7f.js",
+    "service-worker.js": "/reactmernproject/service-worker.js",
+    "static/css/main.d8e7bbc8.chunk.css.map": "/reactmernproject/static/css/main.d8e7bbc8.chunk.css.map",
+    "static/js/2.96eb6862.chunk.js.LICENSE.txt": "/reactmernproject/static/js/2.96eb6862.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7f93ab.js",
+    "static/js/2.96eb6862.chunk.js",
+    "static/css/main.d8e7bbc8.chunk.css",
+    "static/js/main.f8dd6433.chunk.js"
+  ]
+}
