@@ -1,0 +1,61 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #5c5d5e;
+}
+
+.footer{
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+
+  margin-top: 10em;
+}
+
+.category-block{
+  background-color: rgb(224, 238, 241);
+}
+
+.bold{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.card-color{
+  color: blueviolet;
+  
+}
+
+.border-class{
+  border: 1px solid rgb(213, 88, 238);
+  
+}
+.header-border{
+  border-bottom: 1px solid rgb(189, 20, 231);
+}
+
+.card-border{
+  border: 2px solid  rgb(189, 20, 231);
+}
+
+.header-text{
+  font-weight: bold;
+}
+
+.price-btn{
+  background-color: rgb(211, 12, 211);
+}
+
+.btn-border{
+  border: 1px solid violet;
+}
+
+
+.btn-border:hover{
+  background-color:rgb(211, 12, 211);
+}
